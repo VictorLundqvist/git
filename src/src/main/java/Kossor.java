@@ -23,6 +23,7 @@ public class Kossor{
 
         System.out.println(kossan.toString());
         System.out.println(lillaKossan.toString());
-
+        
+        System.out.println("GitHub was here");
     }
 }
